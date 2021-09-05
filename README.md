@@ -13,8 +13,8 @@
 
 ### 1. 스마트 팜 모형 모델링
 Fusion360을 이용하여 구현할 스마트팜을 모델링 합니다. 하나의 모습과 이어붙인 모습을 모델링했습니다.
-<img src='https://github.com/HwanGonJang/HwanGonJang.github.io/blob/master/Pictures/af_3.jpg?raw=true'>
-<img src='https://github.com/HwanGonJang/HwanGonJang.github.io/blob/master/Pictures/af_4.jpg?raw=true'>
+<img src='https://github.com/HwanGonJang/HwanGonJang.github.io/blob/master/Pictures/af_3.png?raw=true'>
+<img src='https://github.com/HwanGonJang/HwanGonJang.github.io/blob/master/Pictures/af_4.png?raw=true'>
 
 ### 2. 재료 구입 및 형태 구현
 PVC파이프 등 여러가지 재료를 구입하고 아두이노가 들어갈 모형을 구현합니다.
